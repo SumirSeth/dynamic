@@ -18,7 +18,7 @@
     <header class="bg-[#F7F5FA] sticky top-0 z-50 shadow-sm"> <!-- brand-lavender -->
       <div class="container mx-auto flex justify-between items-center py-3">
         <a href="#" class="flex items-center">
-          <img src="/favicon.ico" alt="Wealthfront Logo" class="h-8 w-auto">
+          <img src="/logo.png" alt="Wealthfront Logo" class="h-16 w-auto">
         </a>
         <nav class="hidden md:flex items-center space-x-6">
           <a href="#" class="text-gray-700 hover:text-[#4A2E6F] font-medium">Cash</a>
@@ -71,7 +71,7 @@
           </div>
            <div class="relative flex justify-center md:justify-end">
              <div class="max-w-xs w-full transform -rotate-3" style="perspective: 1000px;">
-                <img src="/favicon.ico" alt="Wealthfront app interface on a phone" class="rounded-3xl shadow-2xl w-full">
+                <img src="/logo.png" alt="Wealthfront app interface on a phone" class="rounded-3xl shadow-2xl w-[130%] max-w-xl">
              </div>
            </div>
         </div>
@@ -84,12 +84,12 @@
     <section class="bg-[#F7F5FA] py-8">
        <div class="container mx-auto flex flex-col md:flex-row justify-center items-center gap-10 md:gap-16 flex-wrap">
           <div class="text-center md:text-left">
-             <img src="/favicon.ico" alt="Nerdwallet Logo" class="h-6 mx-auto md:mx-0 mb-2 opacity-70">
+             <img src="/logo.png" alt="Nerdwallet Logo" class="h-6 mx-auto md:mx-0 mb-2 opacity-70">
              <p class="text-sm text-gray-600">Best Robo-advisor, Portfolio Options, 2023<sup class="text-xs">1</sup></p>
              <p class="text-sm text-gray-600">Best Robo-advisor, IRA, 2022<sup class="text-xs">1</sup></p>
           </div>
           <div class="text-center md:text-left">
-              <img src="/favicon.ico" alt="Bankrate Logo" class="h-6 mx-auto md:mx-0 mb-2 opacity-70">
+              <img src="/logo.png" alt="Bankrate Logo" class="h-6 mx-auto md:mx-0 mb-2 opacity-70">
              <p class="text-sm text-gray-600">Best Cash Management Account, 2023-24<sup class="text-xs">1</sup></p>
              <p class="text-sm text-gray-600">Best Investing App, 2024<sup class="text-xs">1</sup></p>
           </div>
@@ -168,8 +168,8 @@
           <p class="text-xs text-gray-400 mt-1">*Rate as of 04/16/2025 and subject to change.</p>
       </div>
       <div class="bg-gradient-to-br from-green-50 to-teal-50 flex items-center justify-center p-8 lg:p-16 relative order-1 md:order-2 min-h-[400px] md:min-h-0">
-        <img src="/favicon.ico" alt="Cash Account screen" class="max-w-xs w-full rounded-3xl shadow-xl z-10">
-        <img src="/favicon.ico" alt="Flying money" class="absolute bottom-10 right-10 w-24 h-auto opacity-80 hidden lg:block z-0">
+        <img src="https://tse3.mm.bing.net/th/id/OIP.jeHdMtInyTU1n9Grn8QZPAHaHa?rs=1&pid=ImgDetMain" alt="Cash Account screen" class="max-w-xs w-full rounded-3xl shadow-xl z-10">
+        <!-- <img src="/favicon.ico" alt="Flying money" class="absolute bottom-10 right-10 w-24 h-auto opacity-80 hidden lg:block z-0"> -->
       </div>
     </section>
 
@@ -178,8 +178,8 @@
     <!-- =============================== -->
      <section class="grid grid-cols-1 md:grid-cols-2 border-b border-gray-200">
        <div class="bg-gradient-to-br from-purple-50 to-indigo-50 flex items-center justify-center p-8 lg:p-16 relative order-1 min-h-[400px] md:min-h-0">
-         <img src="/favicon.ico" alt="Automated Bond Ladder screen" class="max-w-xs w-full rounded-3xl shadow-xl z-10">
-         <img src="/favicon.ico" alt="Robot arm with cash" class="absolute bottom-10 right-10 w-28 h-auto opacity-80 hidden lg:block z-0">
+         <img src="https://img.freepik.com/premium-vector/happy-client-customer-person-shaking-hands_87720-244.jpg" alt="Automated Bond Ladder screen" class="max-w-xs w-full rounded-3xl shadow-xl z-10">
+         <!-- <img src="/favicon.ico" alt="Robot arm with cash" class="absolute bottom-10 right-10 w-28 h-auto opacity-80 hidden lg:block z-0"> -->
        </div>
       <div class="py-16 px-6 lg:px-12 xl:px-20 flex flex-col justify-center order-2">
          <div class="flex gap-2 mb-4">
@@ -224,8 +224,8 @@
           </div>
       </div>
       <div class="bg-gradient-to-br from-yellow-50 to-orange-100 flex items-center justify-center p-8 lg:p-16 relative order-1 md:order-2 min-h-[400px] md:min-h-0">
-        <img src="/favicon.ico" alt="Automated Investing screen" class="max-w-xs w-full rounded-3xl shadow-xl z-10">
-        <img src="/favicon.ico" alt="Whale carrying assets" class="absolute bottom-5 right-5 w-36 h-auto opacity-80 hidden lg:block z-0">
+        <img src="https://t3.ftcdn.net/jpg/02/84/67/02/360_F_284670286_VB4EEnS01sbqlueiFka9BO3S5bEFhnx2.jpg" alt="Automated Investing screen" class="max-w-xs w-full rounded-3xl shadow-xl z-10">
+        <!-- <img src="/favicon.ico" alt="Whale carrying assets" class="absolute bottom-5 right-5 w-36 h-auto opacity-80 hidden lg:block z-0"> -->
       </div>
     </section>
 
@@ -234,8 +234,8 @@
     <!-- =============================== -->
     <section class="grid grid-cols-1 md:grid-cols-2 border-b border-gray-200">
       <div class="bg-gradient-to-br from-blue-100 to-[#4A2E6F] flex items-center justify-center p-8 lg:p-16 relative order-1 min-h-[400px] md:min-h-0">
-        <img src="/favicon.ico" alt="Stock Investing screen" class="max-w-xs w-full rounded-3xl shadow-xl z-10">
-        <img src="/favicon.ico" alt="Chess board on structure" class="absolute bottom-10 right-10 w-32 h-auto opacity-90 hidden lg:block z-0">
+        <img src="https://static.vecteezy.com/system/resources/previews/021/159/597/original/smart-brain-human-color-icon-illustration-vector.jpg" alt="Stock Investing screen" class="max-w-xs w-full rounded-3xl shadow-xl z-10">
+        <!-- <img src="/favicon.ico" alt="Chess board on structure" class="absolute bottom-10 right-10 w-32 h-auto opacity-90 hidden lg:block z-0"> -->
       </div>
       <div class="py-16 px-6 lg:px-12 xl:px-20 flex flex-col justify-center order-2">
           <div class="flex gap-2 mb-4">
@@ -264,7 +264,7 @@
        <div class="container mx-auto px-4 text-center">
          <h2 class="text-4xl lg:text-5xl font-medium text-[#4A2E6F] mb-16 max-w-3xl mx-auto leading-tight relative">
             Choose the right level of risk for different chunks of your change.
-            <img src="/favicon.ico" alt="Paper plane" class="absolute -top-8 right-0 w-16 h-auto hidden md:block transform scale-x-[-1]"> <!-- Placeholder -->
+            <img src="/logo.png" alt="Paper plane" class="absolute -top-8 right-0 w-16 h-auto hidden md:block transform scale-x-[-1]"> <!-- Placeholder -->
          </h2>
 
          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12 mb-16 text-left">
@@ -333,7 +333,7 @@
             Wealthfront takes the crown for best overall platform on the market
           </blockquote>
           <div class="flex items-center justify-center gap-2 text-sm text-purple-800">
-            <img src="/favicon.ico" alt="Investopedia" class="h-5"> <!-- Need Investopedia logo -->
+            <!-- <img src="/favicon.ico" alt="Investopedia" class="h-5"> Need Investopedia logo -->
             <span>Investopedia</span>
             <span class="text-purple-400">|</span>
             <span>2022</span>
@@ -383,7 +383,7 @@
         </p>
 
          <!-- Illustration -->
-         <img src="/favicon.ico" alt="House building illustration" class="mx-auto mt-12 w-48 h-auto">
+         <img src="/logo.svg" alt="House building illustration" class="mx-auto mt-12 w-48 h-auto">
       </div>
     </section>
 
@@ -490,7 +490,7 @@
         <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-8 mb-12">
           <!-- Col 1: Logo -->
           <div class="col-span-2 md:col-span-4 lg:col-span-1">
-             <img src="/favicon.ico" alt="Wealthfront Logo" class="h-8 w-auto mb-4"> <!-- Need white version -->
+             <img src="/logo.png" alt="Wealthfront Logo" class="h-8 w-auto mb-4"> <!-- Need white version -->
           </div>
 
           <!-- Col 2: Investing -->
