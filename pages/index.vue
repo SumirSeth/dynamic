@@ -19,7 +19,7 @@
     <header class="bg-[#641a96] sticky top-0 z-50 shadow-sm"> <!-- brand-lavender -->
       <div class="container mx-auto flex justify-between items-center py-3">
         <a href="#" class="flex items-center">
-          <img src="/logo_big.png" alt="Wealthfront Logo" class="h-16 w-auto">
+          <img src="/logo_big_p.png" alt="Wealthfront Logo" class="h-16 w-auto brightness-200">
         </a>
         <nav class="hidden md:flex items-center space-x-6">
           <!-- <a href="#" class="text-gray-700 hover:text-[#4A2E6F] font-medium">Cash</a>
@@ -73,7 +73,7 @@
         </div>
          <div class="relative flex justify-center md:justify-end">
          <div class="max-w-xs w-full transform -rotate-3" style="perspective: 1000px;">
-          <img src="/logo_big.png" alt="Wealthfront app interface on a phone" class="rounded-3xl shadow-2xl lg:-translate-x-7/12 lg:w-[170%] md:w-[130%] sm:w-[110%] md:max-w-xl">
+          <img src="/logo_big_p.png" alt="Wealthfront app interface on a phone" class="rounded-3xl shadow-2xl lg:-translate-x-7/12 lg:w-[170%] md:w-[130%] sm:w-[110%] md:max-w-xl">
          </div>
          </div>
       </div>
@@ -86,12 +86,12 @@
     <section class="bg-[#F7F5FA] py-8">
        <div class="container mx-auto flex flex-col md:flex-row justify-center items-center gap-10 md:gap-16 flex-wrap">
           <!-- <div class="text-center md:text-left">
-             <img src="/logo_big.png" alt="Nerdwallet Logo" class="h-6 mx-auto md:mx-0 mb-2 opacity-70">
+             <img src="/logo_big_p.png" alt="Nerdwallet Logo" class="h-6 mx-auto md:mx-0 mb-2 opacity-70">
              <p class="text-sm text-gray-600">Best Robo-advisor, Portfolio Options, 2023<sup class="text-xs">1</sup></p>
              <p class="text-sm text-gray-600">Best Robo-advisor, IRA, 2022<sup class="text-xs">1</sup></p>
           </div>
           <div class="text-center md:text-left">
-              <img src="/logo_big.png" alt="Bankrate Logo" class="h-6 mx-auto md:mx-0 mb-2 opacity-70">
+              <img src="/logo_big_p.png" alt="Bankrate Logo" class="h-6 mx-auto md:mx-0 mb-2 opacity-70">
              <p class="text-sm text-gray-600">Best Cash Management Account, 2023-24<sup class="text-xs">1</sup></p>
              <p class="text-sm text-gray-600">Best Investing App, 2024<sup class="text-xs">1</sup></p>
           </div> -->
@@ -215,7 +215,7 @@
        <div class="font-['Cabinet'] container mx-auto px-4 text-center">
          <h2 class="font-['Cabinet'] font-extrabold text-5xl lg:text-7xl text-[#4A2E6F] mb-16 max-w-3xl mx-auto leading-tight relative">
             Why choose us?
-            <!-- <img src="/logo_big.png" alt="Paper plane" class="absolute -top-8 right-0 w-16 h-auto hidden md:block"> Placeholder -->
+            <!-- <img src="/logo_big_p.png" alt="Paper plane" class="absolute -top-8 right-0 w-16 h-auto hidden md:block"> Placeholder -->
          </h2>
 
          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 lg:gap-12 mb-16 text-left">
@@ -444,7 +444,7 @@
         <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-6 gap-8 mb-12">
           <!-- Col 1: Logo -->
           <div class="col-span-2 md:col-span-4 lg:col-span-1">
-             <img src="/logo_big.png" alt="Wealthfront Logo" class="mb-4 lg:w-[200%] w-[50%]"> <!-- Need white version -->
+             <img src="/logo_big_p.png" alt="Wealthfront Logo" class="mb-4 lg:w-[200%] w-[50%]"> <!-- Need white version -->
           </div>
 
           <!-- Col 2: Investing -->
