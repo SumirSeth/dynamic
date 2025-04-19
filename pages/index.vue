@@ -534,10 +534,7 @@
 
 <style>
 /* Global or page-specific non-Tailwind styles */
-body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  /* @apply text-gray-800; Default text color */
-}
+
 
 sup {
     vertical-align: super;
