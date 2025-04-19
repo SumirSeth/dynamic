@@ -47,35 +47,36 @@
     <!-- =============================== -->
     <!-- Hero Section -->
     <!-- =============================== -->
-    <section class="bg-[#F7F5FA] pt-16 pb-20 md:pt-24 md:pb-28 overflow-hidden">
+    <section class="bg-gradient-to-br from-[#dcc9f8] via-purple-50 to-[#F7F5FA] pt-16 pb-20 md:pt-24 md:pb-28 overflow-hidden">
       <div class="container mx-auto">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+        
+        <div class="font-['Cabinet']">
+        <h1 class="font-['Stardom'] text-5xl md:text-6xl lg:text-8xl font-extrabold text-[#4A2E6F] leading-tight mb-6">Dynamic Pricing for <br class="hidden md:inline"> everybody, everywhere.</h1>
+        <div class="space-y-6 mb-8">
+          <div class="flex items-start gap-4">
+          <div class="flex-shrink-0 w-12 h-12 bg-white rounded-full border border-gray-200 flex items-center justify-center"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-[#4A2E6F]"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 8.25h19.5M2.25 9h19.5m-16.5 5.25h6m-6 2.25h3m-3.75 3h15a2.25 2.25 0 0 0 2.25-2.25V6.75A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25v10.5A2.25 2.25 0 0 0 4.5 19.5Z" /></svg></div>
           <div>
-            <h1 class="font-['Stardom'] text-5xl md:text-6xl lg:text-8xl font-bold text-[#4A2E6F] leading-tight mb-6">Dynamic Pricing for <br class="hidden md:inline"> everybody, everywhere.</h1>
-            <div class="space-y-6 mb-8">
-              <div class="flex items-start gap-4">
-                <div class="flex-shrink-0 w-12 h-12 bg-white rounded-full border border-gray-200 flex items-center justify-center"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-[#4A2E6F]"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 8.25h19.5M2.25 9h19.5m-16.5 5.25h6m-6 2.25h3m-3.75 3h15a2.25 2.25 0 0 0 2.25-2.25V6.75A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25v10.5A2.25 2.25 0 0 0 4.5 19.5Z" /></svg></div>
-                <div>
-                  <p class="text-lg font-semibold text-[#4A2E6F]">Earn 4.00% APY*</p>
-                  <p class="text-gray-600">on your cash from partner banks.</p>
-                </div>
-              </div>
-              <div class="flex items-start gap-4">
-                 <div class="flex-shrink-0 w-12 h-12 bg-white rounded-full border border-gray-200 flex items-center justify-center"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-[#4A2E6F]"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386-1.591 1.591M21 12h-2.25m-.386 6.364-1.591-1.591M12 18.75V21m-6.364-.386 1.591-1.591M3 12h2.25m.386-6.364 1.591 1.591M12 6.375a3.375 3.375 0 0 0-3.375 3.375h6.75A3.375 3.375 0 0 0 12 6.375Zm-2.25 3.375a2.625 2.625 0 0 1 5.25 0h-5.25Z" /></svg></div>
-                <div>
-                  <p class="text-lg font-semibold text-[#4A2E6F]">Invest with expert-built portfolios and strategies.</p>
-                </div>
-              </div>
-            </div>
-            <button class="px-8 py-3 text-lg rounded-md font-semibold transition duration-150 ease-in-out bg-[#4A2E6F] text-white hover:bg-opacity-90">Get started</button>
-            <p class="text-xs text-gray-400 mt-3">*Rate subject to change.</p>
+            <p class="text-lg font-semibold text-[#4A2E6F]">Growth matters for us!</p>
+            <p class="text-gray-600">help leverage vendor profits.</p>
           </div>
-           <div class="relative flex justify-center md:justify-end">
-             <div class="max-w-xs w-full transform -rotate-3" style="perspective: 1000px;">
-                <img src="/logo_big.png" alt="Wealthfront app interface on a phone" class="rounded-3xl shadow-2xl -translate-x-7/12 w-[200%] max-w-xl">
-             </div>
-           </div>
+          </div>
+          <div class="flex items-start gap-4">
+           <div class="flex-shrink-0 w-12 h-12 bg-white rounded-full border border-gray-200 flex items-center justify-center"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-[#4A2E6F]"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386-1.591 1.591M21 12h-2.25m-.386 6.364-1.591-1.591M12 18.75V21m-6.364-.386 1.591-1.591M3 12h2.25m.386-6.364 1.591 1.591M12 6.375a3.375 3.375 0 0 0-3.375 3.375h6.75A3.375 3.375 0 0 0 12 6.375Zm-2.25 3.375a2.625 2.625 0 0 1 5.25 0h-5.25Z" /></svg></div>
+          <div>
+            <p class="text-lg font-semibold text-[#4A2E6F]">Smarter Prices, Bigger profits.</p>
+          </div>
+          </div>
         </div>
+        <button class="px-8 py-3 text-lg rounded-md font-semibold transition duration-150 ease-in-out bg-[#4A2E6F] text-white hover:bg-opacity-90">Get started</button>
+        <!-- <p class="text-xs text-gray-400 mt-3">*Rate subject to change.</p> -->
+        </div>
+         <div class="relative flex justify-center md:justify-end">
+         <div class="max-w-xs w-full transform -rotate-3" style="perspective: 1000px;">
+          <img src="/logo_big.png" alt="Wealthfront app interface on a phone" class="rounded-3xl shadow-2xl lg:-translate-x-7/12 lg:w-[170%] md:w-[130%] sm:w-[110%] md:max-w-xl">
+         </div>
+         </div>
+      </div>
       </div>
     </section>
 
@@ -100,25 +101,26 @@
      <!-- =============================== -->
     <!-- Stats Section (Hero) -->
     <!-- =============================== -->
-    <section class="bg-[#F7F5FA] pt-8 pb-16">
+    <section class="bg-[#F7F5FA] pt-8 pb-16 font-['Cabinet']">
       <div class="container mx-auto">
         <div class="flex flex-wrap justify-center gap-8 md:gap-16 lg:gap-24">
           <div class="text-center">
-            <p class="text-3xl lg:text-4xl font-bold text-[#4A2E6F] mb-1">1M+</p>
-            <p class="text-sm text-gray-600">Trusted clients</p>
+            <p class="text-3xl lg:text-4xl font-bold text-[#4A2E6F] mb-1">+18%<span class="text-yellow-500 align-super text-xl ml-1">📈</span></p>
+            <p class="text-sm text-gray-600">Revenue Uplift</p>
           </div>
            <div class="text-center">
-            <p class="text-3xl lg:text-4xl font-bold text-[#4A2E6F] mb-1">$80B+</p>
-            <p class="text-sm text-gray-600">In total assets</p>
+            <p class="text-3xl lg:text-4xl font-bold text-[#4A2E6F] mb-1">+22%<span class="text-yellow-500 align-super text-xl ml-1">🚀</span></p>
+            <p class="text-sm text-gray-600">Profit Margin Growth</p>
           </div>
           <div class="text-center">
-            <p class="text-3xl lg:text-4xl font-bold text-[#4A2E6F] mb-1">4.8<span class="text-yellow-500 align-super text-xl ml-1">★</span><sup class="text-xs font-normal top-[-0.8em] ml-0.5">2</sup></p>
-            <p class="text-sm text-gray-600">Apple App Store</p>
+            <p class="text-3xl lg:text-4xl font-bold text-[#4A2E6F] mb-1"><7 Days<span class="text-yellow-500 align-super text-xl ml-1">★</span></p>
+            <p class="text-sm text-gray-600">Integration Time</p>
           </div>
+          <!-- 
           <div class="text-center">
             <p class="text-3xl lg:text-4xl font-bold text-[#4A2E6F] mb-1">4.9<span class="text-yellow-500 align-super text-xl ml-1">★</span><sup class="text-xs font-normal top-[-0.8em] ml-0.5">2</sup></p>
             <p class="text-sm text-gray-600">Google Play Store</p>
-          </div>
+          </div> -->
         </div>
       </div>
     </section>
@@ -126,7 +128,7 @@
     <!-- =============================== -->
     <!-- Product Teaser Tabs -->
     <!-- =============================== -->
-    <section class="border-y border-gray-200">
+    <section class="border-y border-gray-200 font-['Cabinet']">
        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4">
           <div class="p-6 border-b md:border-b-0 md:border-r border-gray-200 bg-green-50">
               <!-- <p class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">"NOW" MONEY</p> -->
@@ -153,7 +155,7 @@
     <section class="grid grid-cols-1 md:grid-cols-2 border-b border-gray-200">
       <div class="py-16 px-6 lg:px-12 xl:px-20 flex flex-col justify-center order-2 md:order-1">
          <span class="inline-block px-3 py-1 rounded-full bg-purple-100 text-purple-700 text-xs font-medium mb-4 self-start">SHORT-TERM SAVINGS</span>
-         <h2 class="text-4xl lg:text-5xl font-bold text-[#4A2E6F] mb-4 leading-tight">Aligned Revenue Sharing Model
+         <h2 class="font-['Cabinet'] text-4xl lg:text-5xl font-extrabold text-[#4A2E6F] mb-4 leading-tight">Aligned Revenue Sharing Model
         </h2>
          <!-- <p class="text-4xl lg:text-5xl font-bold text-[#4A2E6F] mb-6">Earn 4.00%* APY.</p> -->
          <p class="text-gray-600 mb-8">As retailers grow revenue using our tool, we grow too—creating a win-win feedback loop.
@@ -189,7 +191,7 @@
            <!-- <span class="inline-block px-3 py-1 rounded-full bg-purple-100 text-purple-700 text-xs font-medium">STEADY YIELD</span> -->
            <span class="inline-block px-3 py-1 rounded-full bg-blue-100 text-blue-700 text-xs font-medium">STEADY YIELD</span>
          </div>
-         <h2 class="text-4xl lg:text-5xl font-bold text-[#4A2E6F] mb-6 leading-tight">Optimizes for Willingness to Pay.</h2>
+         <h2 class="font-['Cabinet'] text-4xl lg:text-5xl font-extrabold text-[#4A2E6F] mb-6 leading-tight">Optimizes for Willingness to Pay.</h2>
          <p class="text-gray-600 mb-8">Uses historical behavior and real-world tests to identify what your customers will pay—and when.</p>
          <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-4 text-sm text-gray-700 mb-8">
             <!-- <div class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-green-600 flex-shrink-0 mt-px"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 18 9 11.25l4.306 4.306a11.95 11.95 0 0 1 5.814-5.518l2.74-1.22m0 0-5.94-2.281m5.94 2.28-2.28 5.941" /></svg> 4.13% – 4.15% Range of current yields on Treasuries in our 3-month ladder, after our advisory fee</div> -->
@@ -210,8 +212,8 @@
     <!-- Risk Level Section -->
     <!-- =============================== -->
     <section class="bg-green-50 py-20 lg:py-28">
-       <div class="container mx-auto px-4 text-center">
-         <h2 class="font-[] text-4xl lg:text-5xl font-medium text-[#4A2E6F] mb-16 max-w-3xl mx-auto leading-tight relative">
+       <div class="font-['Cabinet'] container mx-auto px-4 text-center">
+         <h2 class="font-['Cabinet'] font-extrabold text-5xl lg:text-7xl text-[#4A2E6F] mb-16 max-w-3xl mx-auto leading-tight relative">
             Why choose us?
             <!-- <img src="/logo_big.png" alt="Paper plane" class="absolute -top-8 right-0 w-16 h-auto hidden md:block"> Placeholder -->
          </h2>
@@ -268,24 +270,24 @@
     <!-- Testimonials Section -->
     <!-- =============================== -->
     <section class="bg-[#F7F5FA] py-20 lg:py-28">
-      <div class="container mx-auto px-4 text-center">
-         <h2 class="text-4xl lg:text-5xl font-medium text-[#4A2E6F] mb-12 relative">
+      <div class="font-['Cabinet'] container mx-auto px-4 text-center">
+         <h2 class="text-5xl lg:text-7xl font-medium text-[#4A2E6F] mb-12 relative">
            Don't just take our word for it.
             <!-- Curved arrow SVG placeholder -->
-            <svg class="absolute top-0 right-0 -mt-4 -mr-4 w-16 h-auto text-gray-400 hidden md:block" viewBox="0 0 100 50"><path d="M 10 40 Q 50 0 90 10" fill="none" stroke="currentColor" stroke-width="2" marker-end="url(#arrowhead)"/><defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="currentColor"/></marker></defs></svg>
+            <!-- <svg class="absolute top-0 right-0 -mt-4 -mr-4 w-16 h-auto text-gray-400 hidden md:block" viewBox="0 0 100 50"><path d="M 10 40 Q 50 0 90 10" fill="none" stroke="currentColor" stroke-width="2" marker-end="url(#arrowhead)"/><defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="currentColor"/></marker></defs></svg> -->
          </h2>
 
         <!-- Main Quote -->
         <div class="bg-purple-100 rounded-lg p-8 md:p-12 max-w-3xl mx-auto mb-12 text-center">
           <p class="text-6xl text-[#4A2E6F] font-serif leading-none mb-4">“</p>
           <blockquote class="text-2xl md:text-3xl font-semibold text-[#4A2E6F] mb-6 leading-snug">
-            Wealthfront takes the crown for best overall platform on the market
+            EvoPrice is the best dynamic pricing tool on the market
           </blockquote>
           <div class="flex items-center justify-center gap-2 text-sm text-purple-800">
             <!-- <img src="/favicon.ico" alt="Investopedia" class="h-5"> Need Investopedia logo -->
             <span>Investopedia</span>
             <span class="text-purple-400">|</span>
-            <span>2022</span>
+            <span>2025</span>
           </div>
         </div>
 
@@ -332,42 +334,45 @@
         </p>
 
          <!-- Illustration -->
-         <img src="/logo.svg" alt="House building illustration" class="mx-auto mt-12 w-48 h-auto">
+         <img src="/logo.png" alt="House building illustration" class="mx-auto mt-12 w-48 h-auto">
       </div>
     </section>
 
     <!-- =============================== -->
     <!-- Ready? CTA + Stats Section -->
     <!-- =============================== -->
-    <section class="bg-[#F7F5FA] py-20 lg:py-28">
+    <section class="font-['Cabinet'] bg-[#F7F5FA] py-20 lg:py-28">
        <div class="container mx-auto px-4 text-center">
-          <h2 class="text-4xl lg:text-5xl font-medium text-[#4A2E6F] mb-12">Ready for your money's new home?</h2>
-          <div class="flex flex-wrap justify-center gap-8 md:gap-16 lg:gap-24 mb-12">
-            <div class="text-center">
-              <p class="text-3xl lg:text-4xl font-bold text-[#4A2E6F] mb-1">1M+</p>
-              <p class="text-sm text-gray-600">clients trust us with<br>their money</p> <!-- Adjusted text -->
-            </div>
-             <div class="text-center">
-              <p class="text-3xl lg:text-4xl font-bold text-[#4A2E6F] mb-1">$80B+</p>
-              <p class="text-sm text-gray-600">of their money</p>
-            </div>
-            <div class="text-center">
-              <p class="text-3xl lg:text-4xl font-bold text-[#4A2E6F] mb-1">4.8<span class="text-yellow-500 align-super text-xl ml-1">★</span><sup class="text-xs font-normal top-[-0.8em] ml-0.5">2</sup></p>
-              <p class="text-sm text-gray-600">Apple App Store</p>
-            </div>
-            <div class="text-center">
-              <p class="text-3xl lg:text-4xl font-bold text-[#4A2E6F] mb-1">4.9<span class="text-yellow-500 align-super text-xl ml-1">★</span><sup class="text-xs font-normal top-[-0.8em] ml-0.5">2</sup></p>
-              <p class="text-sm text-gray-600">Google Play Store</p>
-            </div>
-         </div>
-          <button class="px-8 py-3 text-lg rounded-md font-semibold transition duration-150 ease-in-out bg-[#4A2E6F] text-white hover:bg-opacity-90">Get started</button>
+          <h2 class="text-5xl lg:text-7xl font-medium text-[#4A2E6F] mb-12">Ready to maximise your profit?</h2>
+          <div class="container mx-auto">
+        <div class="flex flex-wrap justify-center gap-8 md:gap-16 lg:gap-24">
+          <div class="text-center">
+            <p class="text-3xl lg:text-4xl font-bold text-[#4A2E6F] mb-1">+18%<span class="text-yellow-500 align-super text-xl ml-1">📈</span></p>
+            <p class="text-sm text-gray-600">Revenue Uplift</p>
+          </div>
+           <div class="text-center">
+            <p class="text-3xl lg:text-4xl font-bold text-[#4A2E6F] mb-1">+22%<span class="text-yellow-500 align-super text-xl ml-1">🚀</span></p>
+            <p class="text-sm text-gray-600">Profit Margin Growth</p>
+          </div>
+          <div class="text-center">
+            <p class="text-3xl lg:text-4xl font-bold text-[#4A2E6F] mb-1"><7 Days<span class="text-yellow-500 align-super text-xl ml-1">★</span></p>
+            <p class="text-sm text-gray-600">Integration Time</p>
+          </div>
+          <!-- 
+          <div class="text-center">
+            <p class="text-3xl lg:text-4xl font-bold text-[#4A2E6F] mb-1">4.9<span class="text-yellow-500 align-super text-xl ml-1">★</span><sup class="text-xs font-normal top-[-0.8em] ml-0.5">2</sup></p>
+            <p class="text-sm text-gray-600">Google Play Store</p>
+          </div> -->
+        </div>
+      </div>
+          <button class="px-8 my-5 py-3 text-lg rounded-md font-semibold transition duration-150 ease-in-out bg-[#4A2E6F] text-white hover:bg-opacity-90">Get started</button>
        </div>
     </section>
 
      <!-- =============================== -->
     <!-- FAQ Section -->
     <!-- =============================== -->
-    <section class="bg-purple-50 py-20 lg:py-28">
+    <section class="font-['Cabinet'] bg-purple-50 py-20 lg:py-28">
        <div class="container mx-auto px-4">
          <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
             <div class="lg:col-span-1">
@@ -378,7 +383,7 @@
                 <!-- FAQ Item 1 -->
                 <div class="border-b border-purple-200 pb-4">
                   <button class="flex justify-between items-center w-full text-left text-lg font-medium text-[#4A2E6F] hover:text-purple-900">
-                    <span>4.00% APY? Is this a promotional rate, or some kind of dark magic?</span>
+                    <span>How does this actually help me make more money?</span>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5 text-purple-400 transition-transform duration-200"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" /></svg>
                   </button>
                   <!-- <div class="mt-3 text-gray-600 text-sm">Answer would go here...</div> -->
@@ -386,42 +391,42 @@
                  <!-- FAQ Item 2 -->
                 <div class="border-b border-purple-200 pb-4">
                   <button class="flex justify-between items-center w-full text-left text-lg font-medium text-[#4A2E6F] hover:text-purple-900">
-                    <span>What's so great about a high APY anyway?</span>
+                    <span>What kind of business is this for?</span>
                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5 text-purple-400 transition-transform duration-200"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" /></svg>
                   </button>
                 </div>
                  <!-- FAQ Item 3 -->
                 <div class="border-b border-purple-200 pb-4">
                   <button class="flex justify-between items-center w-full text-left text-lg font-medium text-[#4A2E6F] hover:text-purple-900">
-                    <span>Break it down for me: how should I think about bonds vs. cash?</span>
+                    <span>How long before I see results?</span>
                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5 text-purple-400 transition-transform duration-200"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" /></svg>
                   </button>
                 </div>
                  <!-- FAQ Item 4 -->
-                <div class="border-b border-purple-200 pb-4">
+                <!-- <div class="border-b border-purple-200 pb-4">
                   <button class="flex justify-between items-center w-full text-left text-lg font-medium text-[#4A2E6F] hover:text-purple-900">
                     <span>How should I be thinking about short-term cash during inflation?</span>
                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5 text-purple-400 transition-transform duration-200"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" /></svg>
                   </button>
-                </div>
+                </div> -->
                  <!-- FAQ Item 5 -->
-                 <div class="border-b border-purple-200 pb-4">
+                 <!-- <div class="border-b border-purple-200 pb-4">
                   <button class="flex justify-between items-center w-full text-left text-lg font-medium text-[#4A2E6F] hover:text-purple-900">
                     <span>Why should I invest now if I can get 4.00% APY on my FDIC-insured savings?</span>
                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5 text-purple-400 transition-transform duration-200"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" /></svg>
                   </button>
-                </div>
+                </div> -->
                  <!-- FAQ Item 6 -->
-                 <div class="border-b border-purple-200 pb-4">
+                 <!-- <div class="border-b border-purple-200 pb-4">
                   <button class="flex justify-between items-center w-full text-left text-lg font-medium text-[#4A2E6F] hover:text-purple-900">
                     <span>Not a question, but sell me on this "automated diversification" thing.</span>
                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5 text-purple-400 transition-transform duration-200"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" /></svg>
                   </button>
-                </div>
+                </div> -->
                  <!-- FAQ Item 7 -->
                  <div class="pb-4"> <!-- No border on last item -->
                   <button class="flex justify-between items-center w-full text-left text-lg font-medium text-[#4A2E6F] hover:text-purple-900">
-                    <span>What if I don't fully trust robots with my investments?</span>
+                    <span>Is this legal?</span>
                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5 text-purple-400 transition-transform duration-200"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" /></svg>
                   </button>
                 </div>
@@ -434,16 +439,16 @@
      <!-- =============================== -->
     <!-- Footer Section -->
     <!-- =============================== -->
-    <footer class="bg-[#1A0D2B] text-gray-400 py-16"> <!-- Very dark purple/near black -->
+    <footer class="bg-[#1A0D2B] text-gray-400 py-16 font-['Cabinet']"> <!-- Very dark purple/near black -->
       <div class="container mx-auto px-4">
-        <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-8 mb-12">
+        <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-6 gap-8 mb-12">
           <!-- Col 1: Logo -->
           <div class="col-span-2 md:col-span-4 lg:col-span-1">
-             <img src="/logo_big.png" alt="Wealthfront Logo" class="h-8 w-auto mb-4"> <!-- Need white version -->
+             <img src="/logo_big.png" alt="Wealthfront Logo" class="mb-4 lg:w-[200%] w-[50%]"> <!-- Need white version -->
           </div>
 
           <!-- Col 2: Investing -->
-          <div>
+          <!-- <div>
             <h4 class="font-semibold text-white mb-3">Investing</h4>
             <ul class="space-y-2 text-sm">
               <li><a href="#" class="hover:text-white">Automated Investing</a></li>
@@ -457,10 +462,10 @@
               <li><a href="#" class="hover:text-white">Historical Performance</a></li>
               <li><a href="#" class="hover:text-white">Whitepapers</a></li>
             </ul>
-          </div>
+          </div> -->
 
           <!-- Col 3: Save & Bonds -->
-          <div>
+          <!-- <div>
             <h4 class="font-semibold text-white mb-3">Save</h4>
             <ul class="space-y-2 text-sm mb-6">
               <li><a href="#" class="hover:text-white">Cash</a></li>
@@ -475,7 +480,7 @@
             <ul class="space-y-2 text-sm">
                <li><a href="#" class="hover:text-white">Borrow</a></li>
             </ul>
-          </div>
+          </div> -->
 
           <!-- Col 4: Learn -->
           <div>
@@ -498,7 +503,7 @@
               <li><a href="#" class="hover:text-white">Legal</a></li>
               <li><a href="#" class="hover:text-white">Security</a></li>
               <li><a href="#" class="hover:text-white">Sitemap</a></li>
-              <li><a href="#" class="hover:text-white mt-4 inline-block">Back to top</a></li>
+              <!-- <li><a href="#" class="hover:text-white mt-4 inline-block">Back to top</a></li> -->
             </ul>
           </div>
 
@@ -507,14 +512,14 @@
         <hr class="border-gray-700 mb-8">
 
         <!-- Fine Print / Disclosures -->
-        <div class="text-xs space-y-4 text-gray-500">
+        <!-- <div class="text-xs space-y-4 text-gray-500">
            <p>All investing involves risk, including the loss of principal. Performance data represents past performance and does not guarantee future results. Financial returns, expected returns, and probability projections are provided for informational and illustrative purposes, and may not reflect actual future performance. Please see our <a href="#" class="text-gray-400 hover:text-white underline">Full Disclosure</a> for important details.</p>
            <p>Nerdwallet receives cash compensation for referring potential clients to Wealthfront Advisers, LLC (“Wealthfront Advisers”) via advertisements placed on their website. Nerdwallet and Wealthfront Advisers are not associated with one another and have no formal relationship outside of this arrangement. Nerdwallet’s opinions are their own. Their ratings are determined by their editorial team. The scoring formula for online brokers and robo-advisors takes into account over 15 factors, including account fees and minimums, investment choices, customer support and mobile app capabilities. Nerdwallet ranking as of [Date]. Wealthfront provides cash compensation in connection with obtaining this ranking. This ranking may not be representative of any one client’s experience because it reflects an average of the conditions listed above. This ranking is not indicative of the future performance. [Add more details as needed...]</p>
            <p>Apple App Store and Google Play Store ratings are based on user ratings and are subject to change. [...]</p>
             <p>Wealthfront Cash Account is offered by Wealthfront Brokerage LLC (“Wealthfront Brokerage”), Member <a href="#" class="text-gray-400 hover:text-white underline">FINRA</a>/<a href="#" class="text-gray-400 hover:text-white underline">SIPC</a>. The Annual Percentage Yield (APY) for cash deposits is as of [Date]. [...] Wealthfront Brokerage is not a bank. Deposits are held at partner banks and are protected by FDIC insurance up to allowable limits. More information about FDIC insurance, visit <a href="#" class="text-gray-400 hover:text-white underline">www.FDIC.gov</a>.</p>
            <p>[Include other disclosures about Bond Ladder, Investing, Tax-Loss Harvesting, etc. as seen in the image...]</p>
            <p>© {{ new Date().getFullYear() }} Wealthfront Corporation. All rights reserved.</p>
-        </div>
+        </div> -->
 
       </div>
     </footer>
