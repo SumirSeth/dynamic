@@ -72,7 +72,7 @@
           </div>
            <div class="relative flex justify-center md:justify-end">
              <div class="max-w-xs w-full transform -rotate-3" style="perspective: 1000px;">
-                <img src="/logo_big.png" alt="Wealthfront app interface on a phone" class="rounded-3xl shadow-2xl w-[130%] max-w-xl">
+                <img src="/logo_big.png" alt="Wealthfront app interface on a phone" class="rounded-3xl shadow-2xl -translate-x-7/12 w-[200%] max-w-xl">
              </div>
            </div>
         </div>
@@ -129,20 +129,20 @@
     <section class="border-y border-gray-200">
        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4">
           <div class="p-6 border-b md:border-b-0 md:border-r border-gray-200 bg-green-50">
-              <p class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">"NOW" MONEY</p>
-              <h3 class="text-lg font-semibold text-[#4A2E6F]">Cash Account</h3>
+              <!-- <p class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">"NOW" MONEY</p> -->
+              <h3 class="text-lg font-semibold text-[#4A2E6F]">Profit-Focused</h3>
           </div>
           <div class="p-6 border-b md:border-b-0 lg:border-r border-gray-200 bg-purple-50">
-             <p class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">"SOON" MONEY</p>
-             <h3 class="text-lg font-semibold text-[#4A2E6F]">Automated Bond Ladder</h3>
+             <!-- <p class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">"SOON" MONEY</p> -->
+             <h3 class="text-lg font-semibold text-[#4A2E6F]">Smart Pricing</h3>
           </div>
           <div class="p-6 border-b md:border-b-0 md:border-r border-gray-200 bg-yellow-50">
-             <p class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">"LATER" MONEY</p>
-             <h3 class="text-lg font-semibold text-[#4A2E6F]">Automated Investing Account</h3>
+             <!-- <p class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">"LATER" MONEY</p> -->
+             <h3 class="text-lg font-semibold text-[#4A2E6F]">Human Results</h3>
           </div>
           <div class="p-6 border-gray-200 bg-blue-50">
-             <p class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">"DIY" MONEY</p>
-             <h3 class="text-lg font-semibold text-[#4A2E6F]">Stock Investing Account</h3>
+             <!-- <p class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">"DIY" MONEY</p> -->
+             <h3 class="text-lg font-semibold text-[#4A2E6F]">Fast Decisions</h3>
           </div>
        </div>
     </section>
@@ -153,20 +153,22 @@
     <section class="grid grid-cols-1 md:grid-cols-2 border-b border-gray-200">
       <div class="py-16 px-6 lg:px-12 xl:px-20 flex flex-col justify-center order-2 md:order-1">
          <span class="inline-block px-3 py-1 rounded-full bg-purple-100 text-purple-700 text-xs font-medium mb-4 self-start">SHORT-TERM SAVINGS</span>
-         <h2 class="text-4xl lg:text-5xl font-bold text-[#4A2E6F] mb-4 leading-tight">More interest on your cash.</h2>
-         <p class="text-4xl lg:text-5xl font-bold text-[#4A2E6F] mb-6">Earn 4.00%* APY.</p>
-         <p class="text-gray-600 mb-8">Earn more on your short-term savings with a high APY delivered through our partner banks. Your cash is easy to access and easy to invest, with no sneaky requirements and no strings attached.</p>
+         <h2 class="text-4xl lg:text-5xl font-bold text-[#4A2E6F] mb-4 leading-tight">Aligned Revenue Sharing Model
+        </h2>
+         <!-- <p class="text-4xl lg:text-5xl font-bold text-[#4A2E6F] mb-6">Earn 4.00%* APY.</p> -->
+         <p class="text-gray-600 mb-8">As retailers grow revenue using our tool, we grow too—creating a win-win feedback loop.
+        </p>
          <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-4 text-sm text-gray-700 mb-8">
             <div class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-5 h-5 text-red-500 flex-shrink-0 mt-px"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" /></svg> No account fees</div>
-            <div class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-green-600 flex-shrink-0 mt-px"><path stroke-linecap="round" stroke-linejoin="round" d="m15.75 15.75-2.489-2.489m0 0a3.375 3.375 0 1 0-4.773-4.773 3.375 3.375 0 0 0 4.774 4.774ZM21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" /></svg> Free, 24/7 instant withdrawals <span class="text-gray-400">(?)</span></div>
-            <div class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-green-600 flex-shrink-0 mt-px"><path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" /></svg> No minimum or maximum balance to earn 4.00%* APY</div>
-            <div class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-green-600 flex-shrink-0 mt-px"><path stroke-linecap="round" stroke-linejoin="round" d="M8.25 18.75a1.5 1.5 0 0 1-3 0m3 0a1.5 1.5 0 0 0-3 0m3 0h6m-9 0H3.375a1.125 1.125 0 0 1-1.125-1.125V14.25m17.25 4.5a1.5 1.5 0 0 1-3 0m3 0a1.5 1.5 0 0 0-3 0m3 0h1.125c.621 0 1.125-.504 1.125-1.125V14.25m-17.25 4.5H9.75v-4.5m-4.5 0H3.375a1.125 1.125 0 0 1-1.125-1.125V8.625c0-.621.504-1.125 1.125-1.125H9.75V4.5m4.5 0h1.125c.621 0 1.125.504 1.125 1.125V8.625c0 .621-.504 1.125-1.125 1.125H14.25v4.5m0 0h1.125c.621 0 1.125.504 1.125 1.125V18.75m-4.5-14.25v-1.5m0 1.5h-2.25m2.25 0h2.25" /></svg> Up to $8M FDIC insurance through partner banks</div>
+            <!-- <div class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-green-600 flex-shrink-0 mt-px"><path stroke-linecap="round" stroke-linejoin="round" d="m15.75 15.75-2.489-2.489m0 0a3.375 3.375 0 1 0-4.773-4.773 3.375 3.375 0 0 0 4.774 4.774ZM21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" /></svg> Free, 24/7 instant withdrawals <span class="text-gray-400">(?)</span></div> -->
+            <!-- <div class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-green-600 flex-shrink-0 mt-px"><path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" /></svg> No minimum or maximum balance to earn 4.00%* APY</div> -->
+            <div class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-green-600 flex-shrink-0 mt-px"><path stroke-linecap="round" stroke-linejoin="round" d="M8.25 18.75a1.5 1.5 0 0 1-3 0m3 0a1.5 1.5 0 0 0-3 0m3 0h6m-9 0H3.375a1.125 1.125 0 0 1-1.125-1.125V14.25m17.25 4.5a1.5 1.5 0 0 1-3 0m3 0a1.5 1.5 0 0 0-3 0m3 0h1.125c.621 0 1.125-.504 1.125-1.125V14.25m-17.25 4.5H9.75v-4.5m-4.5 0H3.375a1.125 1.125 0 0 1-1.125-1.125V8.625c0-.621.504-1.125 1.125-1.125H9.75V4.5m4.5 0h1.125c.621 0 1.125.504 1.125 1.125V8.625c0 .621-.504 1.125-1.125 1.125H14.25v4.5m0 0h1.125c.621 0 1.125.504 1.125 1.125V18.75m-4.5-14.25v-1.5m0 1.5h-2.25m2.25 0h2.25" /></svg> No minimum or maximum price band.</div>
          </div>
          <div class="flex flex-col sm:flex-row gap-4 mb-4">
-            <button class="px-6 py-3 rounded-md font-semibold transition duration-150 ease-in-out bg-[#4A2E6F] text-white hover:bg-opacity-90 flex-1">Start saving with $1</button>
-            <button class="px-6 py-3 rounded-md font-semibold transition duration-150 ease-in-out border border-gray-300 text-gray-700 hover:bg-gray-100 flex-1">Learn more</button>
+            <!-- <button class="px-6 py-3 rounded-md font-semibold transition duration-150 ease-in-out bg-[#4A2E6F] text-white hover:bg-opacity-90 flex-1">Join Now</button>
+            <button class="px-6 py-3 rounded-md font-semibold transition duration-150 ease-in-out border border-gray-300 text-gray-700 hover:bg-gray-100 flex-1">Learn more</button> -->
          </div>
-          <p class="text-xs text-gray-400 mt-1">*Rate as of 04/16/2025 and subject to change.</p>
+          <!-- <p class="text-xs text-gray-400 mt-1">*Rate as of 04/16/2025 and subject to change.</p> -->
       </div>
       <div class="bg-gradient-to-br from-green-50 to-teal-50 flex items-center justify-center p-8 lg:p-16 relative order-1 md:order-2 min-h-[400px] md:min-h-0">
         <img src="https://tse3.mm.bing.net/th/id/OIP.jeHdMtInyTU1n9Grn8QZPAHaHa?rs=1&pid=ImgDetMain" alt="Cash Account screen" class="max-w-xs w-full rounded-3xl shadow-xl z-10">
@@ -184,20 +186,20 @@
        </div>
       <div class="py-16 px-6 lg:px-12 xl:px-20 flex flex-col justify-center order-2">
          <div class="flex gap-2 mb-4">
-           <span class="inline-block px-3 py-1 rounded-full bg-purple-100 text-purple-700 text-xs font-medium">STEADY YIELD</span>
-           <span class="inline-block px-3 py-1 rounded-full bg-blue-100 text-blue-700 text-xs font-medium">LOW RISK</span>
+           <!-- <span class="inline-block px-3 py-1 rounded-full bg-purple-100 text-purple-700 text-xs font-medium">STEADY YIELD</span> -->
+           <span class="inline-block px-3 py-1 rounded-full bg-blue-100 text-blue-700 text-xs font-medium">STEADY YIELD</span>
          </div>
-         <h2 class="text-4xl lg:text-5xl font-bold text-[#4A2E6F] mb-6 leading-tight">Lock in a high yield (and no state income tax).</h2>
-         <p class="text-gray-600 mb-8">Make the most of current rates with a ladder of US Treasuries. Your interest is exempt from state and local income taxes, so you can earn more — and keep more — than most savings accounts and some CDs.</p>
+         <h2 class="text-4xl lg:text-5xl font-bold text-[#4A2E6F] mb-6 leading-tight">Optimizes for Willingness to Pay.</h2>
+         <p class="text-gray-600 mb-8">Uses historical behavior and real-world tests to identify what your customers will pay—and when.</p>
          <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-4 text-sm text-gray-700 mb-8">
-            <div class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-green-600 flex-shrink-0 mt-px"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 18 9 11.25l4.306 4.306a11.95 11.95 0 0 1 5.814-5.518l2.74-1.22m0 0-5.94-2.281m5.94 2.28-2.28 5.941" /></svg> 4.13% – 4.15% Range of current yields on Treasuries in our 3-month ladder, after our advisory fee</div>
-            <div class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-green-600 flex-shrink-0 mt-px"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75m-3-7.036A11.956 11.956 0 0 1 12 3c2.37 0 4.541.65 6.375 1.742m-.375 7.5a11.956 11.956 0 0 1-5.986 5.488l-1.966 1.016m-5.986-5.488A11.956 11.956 0 0 1 6 12c0-2.37.65-4.541 1.742-6.375m-.375 7.5a11.956 11.956 0 0 0 5.986 5.488l1.966 1.016" /></svg> Very low risk (Treasuries are issued and backed by the US government)</div>
-            <div class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-green-600 flex-shrink-0 mt-px"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6v12m-3-2.818.879.659c1.171.879 3.07.879 4.242 0 1.172-.879 1.172-2.303 0-3.182C13.536 12.219 12.768 12 12 12c-.725 0-1.45-.22-2.003-.659-1.106-.879-1.106-2.303 0-3.182s2.9-.879 4.006 0l.415.33M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" /></svg> Pay $0 in state income taxes</div>
-            <div class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-green-600 flex-shrink-0 mt-px"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 0 0-3.7-3.7 48.678 48.678 0 0 0-7.324 0 4.006 4.006 0 0 0-3.7 3.7c-.092 1.21-.138 2.43-.138 3.662v4.286a.625.625 0 0 0 .625.625h2.125c.196 0 .38-.07.53-.19l1.649-1.319a.625.625 0 0 1 .9-.19h.207a.625.625 0 0 1 .9.19l1.65 1.319a.625.625 0 0 0 .53.19h2.125a.625.625 0 0 0 .625-.625v-4.286Zm-12-6.871A1.625 1.625 0 0 1 8.25 3.5h7.5c.71 0 1.365.402 1.625.979l-.375 6.871a.625.625 0 0 1-.623.624h-6.254a.625.625 0 0 1-.623-.624l-.375-6.87Z" /></svg> Withdraw your money with no penalties</div>
+            <!-- <div class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-green-600 flex-shrink-0 mt-px"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 18 9 11.25l4.306 4.306a11.95 11.95 0 0 1 5.814-5.518l2.74-1.22m0 0-5.94-2.281m5.94 2.28-2.28 5.941" /></svg> 4.13% – 4.15% Range of current yields on Treasuries in our 3-month ladder, after our advisory fee</div> -->
+            <div class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-green-600 flex-shrink-0 mt-px"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75m-3-7.036A11.956 11.956 0 0 1 12 3c2.37 0 4.541.65 6.375 1.742m-.375 7.5a11.956 11.956 0 0 1-5.986 5.488l-1.966 1.016m-5.986-5.488A11.956 11.956 0 0 1 6 12c0-2.37.65-4.541 1.742-6.375m-.375 7.5a11.956 11.956 0 0 0 5.986 5.488l1.966 1.016" /></svg> Customer loyalty.</div>
+            <div class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-green-600 flex-shrink-0 mt-px"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6v12m-3-2.818.879.659c1.171.879 3.07.879 4.242 0 1.172-.879 1.172-2.303 0-3.182C13.536 12.219 12.768 12 12 12c-.725 0-1.45-.22-2.003-.659-1.106-.879-1.106-2.303 0-3.182s2.9-.879 4.006 0l.415.33M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" /></svg> Turn slow days into profit days.</div>
+            <!-- <div class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-green-600 flex-shrink-0 mt-px"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 0 0-3.7-3.7 48.678 48.678 0 0 0-7.324 0 4.006 4.006 0 0 0-3.7 3.7c-.092 1.21-.138 2.43-.138 3.662v4.286a.625.625 0 0 0 .625.625h2.125c.196 0 .38-.07.53-.19l1.649-1.319a.625.625 0 0 1 .9-.19h.207a.625.625 0 0 1 .9.19l1.65 1.319a.625.625 0 0 0 .53.19h2.125a.625.625 0 0 0 .625-.625v-4.286Zm-12-6.871A1.625 1.625 0 0 1 8.25 3.5h7.5c.71 0 1.365.402 1.625.979l-.375 6.871a.625.625 0 0 1-.623.624h-6.254a.625.625 0 0 1-.623-.624l-.375-6.87Z" /></svg> Withdraw your money with no penalties</div> -->
          </div>
          <div class="flex flex-col sm:flex-row gap-4">
-            <button class="px-6 py-3 rounded-md font-semibold transition duration-150 ease-in-out bg-[#4A2E6F] text-white hover:bg-opacity-90 flex-1">Get started</button>
-            <button class="px-6 py-3 rounded-md font-semibold transition duration-150 ease-in-out border border-gray-300 text-gray-700 hover:bg-gray-100 flex-1">Learn more</button>
+            <!-- <button class="px-6 py-3 rounded-md font-semibold transition duration-150 ease-in-out bg-[#4A2E6F] text-white hover:bg-opacity-90 flex-1">Get started</button>
+            <button class="px-6 py-3 rounded-md font-semibold transition duration-150 ease-in-out border border-gray-300 text-gray-700 hover:bg-gray-100 flex-1">Learn more</button> -->
          </div>
       </div>
     </section>
@@ -209,9 +211,9 @@
     <!-- =============================== -->
     <section class="bg-green-50 py-20 lg:py-28">
        <div class="container mx-auto px-4 text-center">
-         <h2 class="text-4xl lg:text-5xl font-medium text-[#4A2E6F] mb-16 max-w-3xl mx-auto leading-tight relative">
-            Choose the right level of risk for different chunks of your change.
-            <img src="/logo_big.png" alt="Paper plane" class="absolute -top-8 right-0 w-16 h-auto hidden md:block"> <!-- Placeholder -->
+         <h2 class="font-[] text-4xl lg:text-5xl font-medium text-[#4A2E6F] mb-16 max-w-3xl mx-auto leading-tight relative">
+            Why choose us?
+            <!-- <img src="/logo_big.png" alt="Paper plane" class="absolute -top-8 right-0 w-16 h-auto hidden md:block"> Placeholder -->
          </h2>
 
          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 lg:gap-12 mb-16 text-left">
@@ -290,7 +292,7 @@
         <!-- Smaller Testimonials -->
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12 text-left">
           <div class="bg-white rounded-lg shadow p-6">
-            <p class="text-gray-800 mb-4 font-medium leading-snug">The best way for me to maximize every one of my hard earned dollars.</p>
+            <p class="text-gray-800 mb-4 font-medium leading-snug">We used to guess our prices—now we know. The dashboard is super intuitive, and we saw a 12% bump in just 3 weeks</p>
             <div class="flex items-center gap-3">
               <div class="w-8 h-8 rounded-full bg-green-200"></div> <!-- Placeholder avatar -->
               <div>
@@ -300,22 +302,22 @@
             </div>
           </div>
           <div class="bg-white rounded-lg shadow p-6">
-            <p class="text-gray-800 mb-4 font-medium leading-snug">The single best resource for investing, managing retirement and seeing my entire financial picture.</p>
+            <p class="text-gray-800 mb-4 font-medium leading-snug">Honestly feels like having a pricing consultant in our back pocket. The AI learns fast and keeps us ahead of the curve.</p>
              <div class="flex items-center gap-3">
               <div class="w-8 h-8 rounded-full bg-blue-200"></div> <!-- Placeholder avatar -->
               <div>
                 <p class="text-sm font-semibold text-gray-900">Joshua B</p>
-                <p class="text-xs text-gray-500">Automated Investing Account</p>
+                <p class="text-xs text-gray-500">Store Owner</p>
               </div>
             </div>
           </div>
            <div class="bg-white rounded-lg shadow p-6">
-            <p class="text-gray-800 mb-4 font-medium leading-snug">I LOVE Wealthfront and have moved almost all of my finances there.</p>
+            <p class="text-gray-800 mb-4 font-medium leading-snug">I LOVE Evoprice.It has made a huge impact for us</p>
              <div class="flex items-center gap-3">
-              <div class="w-8 h-8 rounded-full bg-orange-200"></div> <!-- Placeholder avatar -->
+              <div class="w-8 h-8 rounded-full bg-orange-200"></div> <!-- Placeh older avatar -->
               <div>
                 <p class="text-sm font-semibold text-gray-900">Daniel C</p>
-                <p class="text-xs text-gray-500">Automated Bond Portfolio</p>
+                <p class="text-xs text-gray-500">Restaurant  Owner</p>
               </div>
             </div>
           </div>
@@ -326,7 +328,7 @@
 
         <!-- Disclaimer -->
         <p class="text-xs text-gray-500 max-w-3xl mx-auto mt-8 leading-relaxed">
-          The testimonials above are by clients of Wealthfront Advisers and Wealthfront Brokerage. No compensation was provided. These testimonials may not be representative of other clients' experience. Past performance is no guarantee of success. Investopedia receives compensation from Wealthfront Advisers for advertising, which presents a conflict of interest. The endorsements provided are independent and not directly influenced by the compensation. There is no other affiliation between Investopedia and Wealthfront Advisers, and Investopedia is not a client of Wealthfront Advisers.
+          The testimonials above are by clients of EvoPrice. No compensation was provided. These testimonials may not be representative of other clients' experience. Past performance is no guarantee of success. Investopedia receives compensation from EvoPrice for advertising, which presents a conflict of interest. The endorsements provided are independent and not directly influenced by the compensation. There is no other affiliation between Investopedia and EvoPrice.
         </p>
 
          <!-- Illustration -->
