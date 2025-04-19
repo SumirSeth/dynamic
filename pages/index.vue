@@ -16,7 +16,7 @@
     <!-- =============================== -->
     <!-- Header Section -->
     <!-- =============================== -->
-    <header class="bg-[#F7F5FA] sticky top-0 z-50 shadow-sm"> <!-- brand-lavender -->
+    <header class="bg-[#641a96] sticky top-0 z-50 shadow-sm"> <!-- brand-lavender -->
       <div class="container mx-auto flex justify-between items-center py-3">
         <a href="#" class="flex items-center">
           <img src="/logo_big.png" alt="Wealthfront Logo" class="h-16 w-auto">
@@ -29,13 +29,13 @@
            <!-- <a href="#" class="flex items-center text-gray-700 hover:text-[#4A2E6F] font-medium">
             Automated Investing <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4 ml-1 text-gray-400"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" /></svg>
           </a> -->
-          <a href="#" class="text-gray-700 hover:text-[#4A2E6F] font-medium">Pricing</a>
-           <a href="#" class="flex items-center text-gray-700 hover:text-[#4A2E6F] font-medium">
+          <a href="#" class="text-gray-200 hover:text-[#4A2E6F] font-medium">Pricing</a>
+           <a href="#" class="flex items-center text-gray-200 hover:text-[#4A2E6F] font-medium">
             Learn <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4 ml-1 text-gray-400"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" /></svg>
           </a>
         </nav>
         <div class="flex items-center space-x-3">
-           <button class="px-6 py-2 rounded-md font-semibold transition duration-150 ease-in-out border border-[#4A2E6F] text-[#4A2E6F] hover:bg-[#4A2E6F] hover:text-white">Log In</button>
+           <button class="px-6 py-2 rounded-md font-semibold transition duration-150 ease-in-out border-2 border-[#b7b2bd] text-[#cfc9d6] hover:bg-[#4A2E6F] hover:text-white">Log In</button>
            <button class="px-6 py-2 rounded-md font-semibold transition duration-150 ease-in-out bg-[#4A2E6F] text-white hover:bg-opacity-90">Get started</button>
         </div>
          <button class="md:hidden p-2 text-gray-600">
