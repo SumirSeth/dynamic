@@ -16,33 +16,33 @@
     <!-- =============================== -->
     <!-- Header Section -->
     <!-- =============================== -->
-    <header class="bg-[#641a96] sticky top-0 z-50 shadow-sm"> <!-- brand-lavender -->
-      <div class="container mx-auto flex justify-between items-center py-3">
+    <header
+      class=" font-['Cabinet'] fixed top-4 left-1/2 -translate-x-1/2 w-[95vw] max-w-6xl bg-white/20 backdrop-blur-md shadow-2xl rounded-2xl z-50 border border-gray-200 transition-all duration-300"
+      style="box-shadow: 0 8px 32px 0 rgba(80, 36, 120, 0.15);"
+    >
+      <div class="container mx-auto flex justify-between items-center py-2 px-4">
         <a href="#" class="flex items-center">
-          <img src="/logo_big_p.png" alt="Wealthfront Logo" class="h-16 w-auto brightness-200">
+          <img src="/logo_big_p.png" alt="Wealthfront Logo" class="h-14 w-auto brightness-200 rounded-xl shadow">
         </a>
         <nav class="hidden md:flex items-center space-x-6">
-          <!-- <a href="#" class="text-gray-700 hover:text-[#4A2E6F] font-medium">Cash</a>
-          <a href="#" class="flex items-center text-gray-700 hover:text-[#4A2E6F] font-medium">
-            Bonds <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4 ml-1 text-gray-400"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" /></svg>
-          </a> -->
-           <!-- <a href="#" class="flex items-center text-gray-700 hover:text-[#4A2E6F] font-medium">
-            Automated Investing <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4 ml-1 text-gray-400"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" /></svg>
-          </a> -->
-          <a href="#" class="text-gray-200 hover:text-[#4A2E6F] font-medium">Pricing</a>
-           <a href="#" class="flex items-center text-gray-200 hover:text-[#4A2E6F] font-medium">
-            Learn <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4 ml-1 text-gray-400"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" /></svg>
+          <a href="#" class="text-gray-700 hover:text-[#4A2E6F] transition-colors font-bold">Pricing</a>
+          <a href="#" class="flex items-center text-gray-700 hover:text-[#4A2E6F] font-bold transition-colors">
+            Learn
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4 ml-1 text-gray-400"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" /></svg>
           </a>
         </nav>
         <div class="flex items-center space-x-3">
-           <button class="px-6 py-2 rounded-md font-semibold transition duration-150 ease-in-out border-2 border-[#b7b2bd] text-[#cfc9d6] hover:bg-[#4A2E6F] hover:text-white">Log In</button>
-           <button class="px-6 py-2 rounded-md font-semibold transition duration-150 ease-in-out bg-[#4A2E6F] text-white hover:bg-opacity-90">Get started</button>
+          <button class="px-6 py-2 rounded-lg font-extralight border border-[#4A2E6F] text-[#4A2E6F] bg-white/80 shadow hover:bg-[#4A2E6F] hover:text-white transition-all duration-150">Log In</button>
+          <button class="px-6 py-2 rounded-lg font-semibold bg-gradient-to-r from-[#7b4ae2] to-[#4A2E6F] text-white shadow hover:scale-105 transition-all duration-150">Get started</button>
         </div>
-         <button class="md:hidden p-2 text-gray-600">
-           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" /></svg>
-         </button>
+        <button class="md:hidden p-2 text-gray-600 rounded-lg hover:bg-gray-100 transition">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-7 h-7">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+        </button>
       </div>
     </header>
+    <!-- <div class="h-10 md:h-0"></div> -->
 
     <!-- =============================== -->
     <!-- Hero Section -->
